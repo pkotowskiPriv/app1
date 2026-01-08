@@ -72,7 +72,7 @@ export default function Home() {
                 />
               </div>
               <div>
-                <label className="block text-gray-700 mb-2">Password:</label>
+                <label className="block text-gray-700 mb-2">Password1:</label>
                 <input
                   type="password"
                   name="password"
